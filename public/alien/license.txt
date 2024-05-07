@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neomorph Fansculpt
+* source:	https://sketchfab.com/3d-models/neomorph-fansculpt-c17cef5653a74583b2f70d6680203173
+* author:	Frisk (https://sketchfab.com/magsve)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neomorph Fansculpt" (https://sketchfab.com/3d-models/neomorph-fansculpt-c17cef5653a74583b2f70d6680203173) by Frisk (https://sketchfab.com/magsve) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
